@@ -26,6 +26,7 @@ goods:
   - id: 4216313
     category: 224
     model: apple/iphone/xr
+    brand: Nicarho
     name: Смартфон Apple iPhone XR 256GB (красный)
     price: 65000
     price_rrc: 69990
@@ -38,6 +39,7 @@ goods:
   - id: 4216226
     category: 224
     model: apple/iphone/xr
+    brand: Nicarho
     name: Смартфон Apple iPhone XR 256GB (черный)
     price: 65000
     price_rrc: 69990
@@ -50,6 +52,7 @@ goods:
   - id: 4672670
     category: 224
     model: apple/iphone/xr
+    brand: Nicarho
     name: Смартфон Apple iPhone XR 128GB (синий)
     price: 60000
     price_rrc: 64990
@@ -62,6 +65,7 @@ goods:
   - id: 1234567
     category: 15
     model: samsung/galaxy-s20
+    brand: Nicarho
     name: Smartphone Samsung Galaxy S20 128GB (black)
     price: 80000
     price_rrc: 84990
@@ -74,6 +78,7 @@ goods:
   - id: 1234568
     category: 15
     model: samsung/galaxy-note20
+    brand: Nicarho
     name: Smartphone Samsung Galaxy Note20 256GB (mystic bronze)
     price: 95000
     price_rrc: 99990
@@ -86,6 +91,7 @@ goods:
   - id: 1235464569
     category: 1
     model: sandisk/ultra-flair-64gb
+    brand: Nicarho
     name: USB Flash Drive SanDisk Ultra Flair 64GB (silver)
     price: 1500
     price_rrc: 1990
@@ -96,6 +102,7 @@ goods:
   - id: 1235434570
     category: 1
     model: kingston/datatraveler-32gb
+    brand: Nicarho
     name: USB Flash Drive Kingston DataTraveler 32GB (red)
     price: 1000
     price_rrc: 1290
@@ -106,6 +113,7 @@ goods:
   - id: 123544571
     category: 224
     model: xiaomi/mi-10t-pro
+    brand: Nicarho
     name: Smartphone Xiaomi Mi 10T Pro 256GB (cosmic black)
     price: 70000
     price_rrc: 74990
@@ -118,6 +126,7 @@ goods:
   - id: 1234572
     category: 5
     model: samsung/qled-q90r
+    brand: Nicarho
     name: Samsung QLED Q90R 65" 4K UHD Smart TV
     price: 2500
     price_rrc: 2999
@@ -129,6 +138,7 @@ goods:
   - id: 123476573
     category: 5
     model: lg/oled-cx
+    brand: Nicarho
     name: LG OLED CX 55" 4K UHD Smart TV
     price: 1800
     price_rrc: 1999
@@ -140,6 +150,7 @@ goods:
   - id: 1234453574
     category: 5
     model: sony/bravia-x900h
+    brand: Nicarho
     name: Sony Bravia X900H 75" 4K UHD Smart TV
     price: 3000
     price_rrc: 3499
@@ -151,6 +162,7 @@ goods:
   - id: 123234575
     category: 5
     model: tcl/6-series
+    brand: Nicarho
     name: TCL 6-Series 55" 4K UHD Smart TV
     price: 700
     price_rrc: 799
@@ -162,6 +174,7 @@ goods:
   - id: 123424576
     category: 5
     model: vizio/p-series-quantum
+    brand: Nicarho
     name: Vizio P-Series Quantum 65" 4K UHD Smart TV
     price: 1200
     price_rrc: 1299
