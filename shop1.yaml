@@ -25,7 +25,7 @@ goods:
       "Цвет": золотистый
   - id: 4216313
     category: 224
-    model: apple/iphone/xr
+    model: apple/iphone/
     brand: Nicarho
     name: Смартфон Apple iPhone XR 256GB (красный)
     price: 65000
